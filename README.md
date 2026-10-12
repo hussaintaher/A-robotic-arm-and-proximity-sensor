@@ -25,6 +25,7 @@ https://github.com/user-attachments/assets/c418f665-2a17-44d0-a768-ec0622e23332
   <li>5 of Servo Motors</li>
   <li>Robotic Assembly</li>
   <li>Arduino Uno</li>
+  <li>PCA9685</li>
   <li>Metal Object</li>
   <li>Proximity Sensor</li>
   <li>Jumper Wires</li>
