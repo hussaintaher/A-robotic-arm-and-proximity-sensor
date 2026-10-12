@@ -11,9 +11,15 @@
 
 <h3 align="left">Pictures of project:</h3>
 
-![alt text](IMG_1130-1.JPG) ![alt text](IMG_1134.JPG) ![alt text](IMG_1131.JPG) ![alt text](IMG_1132.JPG)
 
-<video controls src="IMG_1135.MOV" title="Title"></video>
+
+https://github.com/user-attachments/assets/4f336dde-fec1-4dd9-9818-4dffcb325a1c
+
+
+<img width="500" height="100%" alt="IMG_1130" src="https://github.com/user-attachments/assets/9c901100-a29c-4e28-8d12-6de464e149f3" />
+<img width="500" height="100%" alt="IMG_1130" src="https://github.com/user-attachments/assets/de6745bd-2667-49b5-89ca-ba7558ef7d21" />
+<img width="500" height="100%" alt="IMG_1132" src="https://github.com/user-attachments/assets/248c33a1-5769-4cd6-8e94-ea0c4b59eed4" />
+<img width="500" height="100%" alt="IMG_1134" src="https://github.com/user-attachments/assets/50653c55-db52-4078-b976-2916a722ac5c" />
 
 <h3 align="left">Electronic Devices:</h3>
 <ul>
