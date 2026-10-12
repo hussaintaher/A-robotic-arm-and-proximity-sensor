@@ -24,10 +24,14 @@ https://github.com/user-attachments/assets/c418f665-2a17-44d0-a768-ec0622e23332
 <ul>
   <li>5 of Servo Motors</li>
   <li>Robotic Assembly</li>
-  <li>Arduino</li>
-  <li>Colorful Objects</li>
-  <li>TCS3200 Color Sensor</li>
-  <li>Wires</li>
+  <li>Arduino Uno</li>
+  <li>Metal Object</li>
+  <li>Proximity Sensor</li>
+  <li>Jumper Wires</li>
+  <li>3 Resistors</li>
+  <li>Bread Board</li>
+  <li>Power Supply 10v</li>
+  <li>Power Supply 5v</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
